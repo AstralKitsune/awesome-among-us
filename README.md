@@ -12,7 +12,7 @@ If you want to contribute, please open a pull request!
   - [APIs](#apis)
 - [Enhancements](#enhancements)
   - [Mod Managers](#mod-managers)
-- [Servers](#servers)
+- [Regions](#regions)
 - [Resources](#resources)
 - [Tools](#tools)
 
@@ -62,7 +62,7 @@ If you want to contribute, please open a pull request!
 - [ModExplorer](https://github.com/xChipseq/ModExplorer) - list all installed plugins / mods and edit their configs
 - [CorsacCosmetics](https://github.com/XtraCube/CorsacCosmetics) - create and use your own cosmetics
 - [Unlock-dlekS-ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
-- [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom servers to your in-game server list
+- [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom regions to your in-game region list
 - [Mini.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
 - [OutfitChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite outfits
 - [StringNameUtils](https://github.com/xChipseq/StringNameUtils) - replace and modify strings
@@ -105,13 +105,13 @@ If you want to contribute, please open a pull request!
 - [Mod Manager](https://github.com/MatuxGG/ModManager) (archived) - manage your Among Us mods with ease
 - [Bean Mod Manager](https://github.com/rewalo/BeanModManager) - mod manager for Windows
 
-# Servers
+# Regions
 
-*Play Among Us on non-official servers*
+*Play Among Us on non-official regions*
 
 - [Impostor](https://github.com/Impostor/Impostor) - open source reimplementation of the Among Us Server
-- [Miniduikboot Modded Servers](https://duikbo.at/) - the most popular servers, operating since 2021 by the people that maintain Impostor
-- [NikoCat233](https://au.niko233.top/) - active modded Impostor servers
+- [Miniduikboot Modded Regions](https://duikbo.at/) - the most popular regions, operating since 2021 by the people that maintain Impostor
+- [NikoCat233](https://au.niko233.top/) - active modded Impostor regions
 - [MAUL Regions](https://moddedamong.us/regions.html) - hosted by [Modded Among Us Lobbies](https://discord.gg/maul) (MAUL) with backend support powered by NikoCat233
 - [AOU Regions](https://moddedamong.us/regions.html) - hosted by [All Of Us Mods](https://allofus.dev/) (AOU)
 - [skeld.net](https://skeld.net) - contains a lot of new game modes and modifiers
