@@ -118,6 +118,7 @@ If you want to contribute, please open a pull request!
 
 # Resources
 
+- [AU Modding Wiki](https://aumodding.dev) - comprehensive Among Us modding wiki
 - [AmongUsModdingInformation](https://github.com/Innersloth-LLC/AmongUsModdingInformation) - technical information for modding Among Us. This is an official repository by Innersloth.
 - [BepInEx](https://github.com/BepInEx/BepInEx) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
   - [BepInEx.SplashScreen](https://github.com/BepInEx/BepInEx.SplashScreen) - splash screen that shows loading progress of BepInEx mods
